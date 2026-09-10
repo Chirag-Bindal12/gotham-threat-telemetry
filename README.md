@@ -1,6 +1,4 @@
-# 📡 Gotham Threat Intelligence: The Batcomputer Database
-
-![Batcomputer Core Logo](https://wikimedia.org)
+# 📡 GOTHAM THREAT INTELLIGENCE: THE BATCOMPUTER DATABASE
 
 **50 SQL cases. 4 datasets. 1 analyst. Gotham has problems.**
 
