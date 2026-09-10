@@ -143,5 +143,3 @@ Project-Sentinel-SQL/
 ---
 ### ⚠️ DISCLAIMER
 *Gotham, its criminals, organizations, and events in this project are fictional/simulated and used strictly for educational and portfolio purposes. No actual Gotham residents were harmed or interrogated during this project.*
-=======
-*Gotham, its criminals, organizations, and events in this project are fictional/simulated and used strictly for educational and portfolio purposes. No actual Gotham residents were harmed or interrogated during this project.*
