@@ -1,0 +1,11 @@
+Intervention_Id,Incident_Id,Rogue_Id,Bat_Suit_Used,Batarangs_Deployed,Tactical_Success_Rate
+INT-5001,INC-1001,R-205,Anti-Fear Exoskeleton,8,92.45
+INT-5002,INC-1002,R-210,Standard Mark IV,4,88.1
+INT-5003,INC-1003,R-204,Stealth Cowl v2,0,99.65
+INT-5004,INC-1004,R-209,Insulated Shock Suit,12,74.2
+INT-5005,INC-1005,R-201,Hellbat Armor,15,95.0
+INT-5006,INC-1006,R-203,Standard Mark IV,6,81.35
+INT-5007,INC-1007,R-202,Stealth Cowl v2,3,90.0
+INT-5008,INC-1008,R-207,Standard Mark IV,5,100.0
+INT-5009,INC-1009,R-203,Standard Mark IV,9,65.8
+INT-5010,INC-1010,R-210,Insulated Shock Suit,11,89.5

@@ -1,0 +1,16 @@
+Node_Id,Node_Name,Sector,Encryption_Level,Operational_Status
+N-100,Satellite Grid Alpha,Orbit,Quantum-SHA,ONLINE
+N-101,Arkham Perimeter Audio,North Gotham,AES-256,ONLINE
+N-102,Wayne Tower Central,Downtown,RSA-4096,DEGRADED
+N-103,Batcave Mainframe,Batcave,Quantum-SHA,ONLINE
+N-104,GCPD Secure Relay,Downtown,AES-256,OFFLINE
+N-105,Batmobile Diagnostic,Mobile,RSA-4096,ONLINE
+N-106,Wayne Enterprises R&D,Downtown,Quantum-SHA,ONLINE
+N-107,Batwing Telemetry,Mobile,AES-256,DEGRADED
+N-108,Gotham Power Hub,Industrial,Legacy-DES,ONLINE
+N-109,Narrows CCTV Master,The Narrows,Legacy-DES,OFFLINE
+N-110,Sewer Flow Monitor,Subterranean,AES-256,ONLINE
+N-111,Bane Tracking Array,South Gotham,RSA-4096,ONLINE
+N-112,Iceberg Lounge Bug,East Gotham,Legacy-DES,DEGRADED
+N-113,Wayne Manor Security,Crest Hill,Quantum-SHA,ONLINE
+N-114,GCPD Evidence Vault,Downtown,AES-256,ONLINE
