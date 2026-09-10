@@ -1,8 +1,6 @@
 # 📡 Gotham Threat Intelligence: The Batcomputer Database
 
-<div align="center">
-  <img src="https://wikimedia.org" alt="Batcomputer Core Logo" width="320"/>
-</div>
+![Batcomputer Core Logo](https://wikimedia.org)
 
 **50 SQL cases. 4 datasets. 1 analyst. Gotham has problems.**
 
@@ -143,7 +141,7 @@ Project-Sentinel-SQL/
 **Case closed. Gotham can survive one night without me.**
 *   The laptop is closing.
 *   The SQL is done.
-*   The analyst is officially **OFF DUTY**. 100% Green Grids. [📊]
+*   The analyst is officially **OFF DUTY**. 100% Green Grids. 
 ---
 ### ⚠️ DISCLAIMER
 *Gotham, its criminals, organizations, and events in this project are fictional/simulated and used strictly for educational and portfolio purposes. No actual Gotham residents were harmed or interrogated during this project.*
