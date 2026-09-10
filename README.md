@@ -142,4 +142,8 @@ Project-Sentinel-SQL/
 *   The analyst is officially **OFF DUTY**. 100% Green Grids. 
 ---
 ### ⚠️ DISCLAIMER
+<<<<<<< HEAD
 *Gotham, its criminals, organizations, and events in this project are fictional/simulated and used strictly for educational and portfolio purposes. No actual Gotham residents were harmed or interrogated during this project.*
+=======
+*Gotham, its criminals, organizations, and events in this project are fictional/simulated and used strictly for educational and portfolio purposes. No actual Gotham residents were harmed or interrogated during this project.*
+>>>>>>> 1d441a211e80fe18b863647c898a9b26e7de97ee
