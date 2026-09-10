@@ -404,3 +404,20 @@ select * from nodes join answer on nodes.node_id=answer.node_id where nodes.Oper
 select Node_Name,Sector,Encryption_Level,Operational_Status,ti.Incident_Id,Danger_Index_Score,Incident_Type,Threat_Priority,Response_Status,Tactical_Success_Rate,Alias 
 from nodes as n join threat_incidents as ti on node_id=Detected_By_Node_Id join tactics as t on t.incident_id=ti.incident_id join rogue_gallery as r on r.rogue_id=t.rogue_id
 where ti.response_status not like "%resolve%" and n.Operational_Status in ("Degraded","Offline") and r.danger_index_score>(select avg(danger_index_score) from rogue_gallery);
+
+/*
+===================================================================
+ 🏁 CHIRAG BINDAL — DATABASES ARE FINALLY DONE 🏁
+===================================================================
+ Architect: Chirag Bindal
+ Status:    50 / 50 Master Queries Completed.
+ Logic:     Correlated subqueries optimized, window analytics locked, 
+            and the final boss query is running perfectly.
+ Pipeline:  Pre-processed and cleaned the dataset a little bit 
+            using Python & Pandas before importing it to the database.
+===================================================================
+ Batman might not sleep, but I definitely do. 
+ The code compiles, the grids are green, and I am officially 
+ closing the tab, shutting the laptop, and going to sleep.
+===================================================================
+*/
